@@ -50,11 +50,11 @@ const Home = () => {
           <Col>
           <div className='hero__content'>
             <p className="hero__subtitle">Trending product in {year}</p>
-            <h2>Make Your Interior More Minimalistic and Modern</h2>
+            <h2>Làm cho nội thất của bạn trở nên tối giản và hiện đại hơn</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe excepturi eveniet, obcaecati ab reiciendis quos quod enim! At, repellendus optio!</p>
             <motion.button whileTap={{ scale
             : 1.2 }} className="buy__button">
-              <Link to='/shop'>SHOP NOW</Link>
+              <Link to='/shop'>Mua Ngay</Link>
             </motion.button>
           </div>
           </Col>
